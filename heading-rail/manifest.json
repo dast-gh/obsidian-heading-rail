@@ -1,0 +1,9 @@
+{
+  "id": "heading-rail",
+  "name": "Heading Rail",
+  "version": "4.4.0",
+  "minAppVersion": "1.0.0",
+  "description": "Dock-style clickable heading bars with live scroll tracking, wave hover and an expandable outline panel.",
+  "author": "DAST",
+  "isDesktopOnly": false
+}
