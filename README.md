@@ -68,7 +68,7 @@ Most table-of-contents and outline plugins for Obsidian show a static list of he
 
 ![Main](screenshots/main.png)
 ![Search](screenshots/search.png)
-![Selecting sections](screenshots/selection.png)
+![Selecting Sections](screenshots/selection.png)
 ![History](screenshots/history.png)
 
 ### Mobile
