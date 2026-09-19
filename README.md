@@ -4,6 +4,8 @@ A table of contents, outline, and heading navigation plugin for Obsidian — hea
 
 *[Русский](#русский) · [Deutsch](#deutsch)*
 
+![Heading Rail](screenshots/overview.png)
+
 ## Why Heading Rail
 
 Most table-of-contents and outline plugins for Obsidian show a static list of headings: click one, jump to it, that's the whole interaction. Heading Rail treats the outline as a live, working view of the document rather than a lookup list. The current position tracks itself while you scroll, the panel has its own search, dragging along the rail scrolls the note in real time the way scrubbing works on a video timeline, and sections can be selected, copied, or deleted directly from the outline with a history to restore from if you change your mind. Mobile gets the same depth of interaction as desktop — touch and long-press instead of hover and right-click — rather than a stripped-down companion mode.
@@ -59,6 +61,21 @@ Most table-of-contents and outline plugins for Obsidian show a static list of he
 ### Appearance
 
 - Every colour comes from Obsidian's own theme variables, so the plugin matches whatever theme is active — light, dark, or a custom one — without separate configuration.
+
+## Screenshots
+
+### Desktop
+
+![Hover](screenshots/hover.png)
+![Outline panel](screenshots/outline.png)
+![Search](screenshots/search.png)
+![Selecting sections](screenshots/selection.png)
+
+### Mobile
+
+![Mobile overview](screenshots/mobile-overview.png)
+![Corner panel](screenshots/mobile-panel.png)
+![Multi-select on mobile](screenshots/mobile-selection.png)
 
 ## Usage
 
