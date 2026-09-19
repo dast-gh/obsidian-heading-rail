@@ -3,7 +3,7 @@
   "name": "Heading Rail",
   "version": "4.7.1",
   "minAppVersion": "1.0.0",
-  "description": "Dock-style clickable heading bars with live scroll tracking, wave hover and an expandable outline panel.",
+  "description": "A table of contents / outline navigator with live-tracking heading bars, in-panel search, drag-to-scroll, section copy and delete, and full mobile support.",
   "author": "DAST",
   "isDesktopOnly": false
 }
