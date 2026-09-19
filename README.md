@@ -66,16 +66,16 @@ Most table-of-contents and outline plugins for Obsidian show a static list of he
 
 ### Desktop
 
-![Hover](screenshots/hover.png)
-![Outline panel](screenshots/outline.png)
+![Main](screenshots/main.png)
 ![Search](screenshots/search.png)
 ![Selecting sections](screenshots/selection.png)
+![History](screenshots/history.png)
 
 ### Mobile
 
-![Mobile overview](screenshots/mobile-overview.png)
-![Corner panel](screenshots/mobile-panel.png)
-![Multi-select on mobile](screenshots/mobile-selection.png)
+![Mobile Main](screenshots/mobile-main.png)
+![Mobile Selecting Sections](screenshots/mobile-selection.png)
+![Mobile History](screenshots/mobile-history.png)
 
 ## Usage
 
